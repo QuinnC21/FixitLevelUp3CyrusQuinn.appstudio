@@ -1,6 +1,6 @@
 let prin = ""
 let rate = ""
-let nmonth = ""
+let nmonth = "
 let nyear = ""
 
 function Car(p, r, n){
